@@ -51,7 +51,7 @@ public class Menu extends MenuComponent {
 	 *
 	 * @return the name of the current menu
 	 */
-	public String getNmae() {
+	public String getName() {
 		return this.name;
 	}
 
@@ -60,7 +60,7 @@ public class Menu extends MenuComponent {
 	 *
 	 * @return a small description of the menu
 	 */
-	public String getDescripiton() {
+	public String getDescription() {
 		return this.description;
 	}
 
