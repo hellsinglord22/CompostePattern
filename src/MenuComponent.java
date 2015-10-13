@@ -5,7 +5,7 @@ public abstract class MenuComponent {
 	public void remove (MenuComponent menuComponent){
 		throw new UnsupportedOperationException();
 	}
-	public MenuComponent get(int childNumber){
+	public MenuComponent getChildern(int childNumber){
 		throw new UnsupportedOperationException();
 	}
 	public String getName(){
